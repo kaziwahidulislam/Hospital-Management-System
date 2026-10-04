@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output / generated files
+/dist/
+/build/
+coverage/
+*.tsbuildinfo
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Local databases / sensitive files
+*.sqlite
+*.sqlite3
+database.txt
+sample.txt
+
+# Package manager caches
+.npm/
+.pnpm-store/
+.yarn/
