@@ -1,16 +1,27 @@
+```markdown
 # 🏥 Hospital Management System (HMS)
 
 > **A modern, modular Node.js & Express backend for seamless healthcare management and clinical workflows.** 🩺✨
 
 ---
 
+<div align="center">
+
+![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/Hospital_Management_System_project?style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/your-username/Hospital_Management_System_project?style=for-the-badge&color=gold)
+![GitHub Forks](https://img.shields.io/github/forks/your-username/Hospital_Management_System_project?style=for-the-badge&color=green)
+![GitHub Issues](https://img.shields.io/github/issues/your-username/Hospital_Management_System_project?style=for-the-badge&color=red)
+![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+
+</div>
+
 ---
 
 ## 💡 Overview
 
-Managing a hospital involves complex role permissions, scheduling, and diagnostic tracking. **Hospital Management System** provides a lightweight, scalable backend framework tailored for handling multi-role operations.
+Managing a hospital involves complex role permissions, scheduling, and diagnostic tracking[cite: 1]. **Hospital Management System** provides a lightweight, scalable backend framework tailored for handling multi-role operations[cite: 1].
 
-Whether you are an **Admin** overseeing hospital modules, a **Doctor** reviewing appointments, or a **Patient** checking lab results, this system routes and validates every request securely through custom middleware architecture.
+Whether you are an **Admin** overseeing hospital modules, a **Doctor** reviewing appointments, or a **Patient** checking lab results, this system routes and validates every request securely through custom middleware architecture[cite: 1].
 
 ```text
                +----------------------------------+
@@ -31,7 +42,7 @@ Whether you are an **Admin** overseeing hospital modules, a **Doctor** reviewing
 
 | 🚨 Doctor & Admin Portal | 📊 Patient & Lab Workflow |
 | --- | --- |
-| <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVndmU3OHJycWVtbTB1bzlyeG44ZnA3dWJyaWZnbHNzcTNpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw](https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVndmU3OHJycWVtbTB1bzlyeG44ZnA3dWJyaWZnbHNzcTNpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw) | L1JBS3BqTGxHOUVGei9naWY/giphy.gif" width="400" alt="Doctor Portal Demo"> |
+|  |  |
 
 ---
 
@@ -99,7 +110,7 @@ Make sure you have **Node.js** (v14+ recommended) and **npm** installed on your 
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Hospital_Management_System_project.git
+git clone [https://github.com/your-username/Hospital_Management_System_project.git](https://github.com/your-username/Hospital_Management_System_project.git)
 cd Hospital_Management_System_project
 
 ```
@@ -139,3 +150,4 @@ Contributions make the open-source community an amazing place to learn, inspire,
 ---
 
 ⭐ **If you found this project helpful, give it a star!** ⭐
+
